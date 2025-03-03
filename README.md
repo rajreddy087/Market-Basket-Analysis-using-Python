@@ -2,7 +2,7 @@
 Market Basket Analysis using the Apriori algorithm to identify product associations.
 
 
-### Overview
+## Overview
 This project performs **Market Basket Analysis** using the **Apriori algorithm** to uncover associations between items in a retail dataset. By finding frequent itemsets and generating association rules, this analysis helps in understanding product relationships, which can be used for product bundling, recommendations, and inventory management.
 
 ### Key Features
